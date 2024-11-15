@@ -84,3 +84,12 @@ p.title{
 .card > img{
   width:100%;
 }
+@media screen and (max-width: 400px){
+  .card{
+    width: 90%;
+  }
+  .box{
+    width: auto;
+    margin: 20px 10px
+  }
+}
